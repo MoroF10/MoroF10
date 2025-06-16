@@ -60,7 +60,10 @@ align = "left"
 	title = "Postgresql"
 	width = "45px"
 	style = "padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-	<br>
+
+
+ <br>
+ <br>
 
 ### 🚀 Projetos em Destaque
 -   `30 Dias de BI`: Série de projetos no Power BI aplicando todas as etapas — extração, modelagem, criação de medidas DAX e visualizações interativas  
