@@ -10,6 +10,9 @@ Sou **Fernando Moro**, tenho **32 anos**, nascido em **São Paulo** e atualmente
 Sou formado como **Cientista de Dados pela Universidade Estácio** e venho unindo minha formação acadêmica com experiências práticas. Atualmente, atuo como **correspondente bancário** e participo de um programa **trainee em uma franquia da Cacau Show**, onde aplico conceitos de dados no dia a dia.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167)
+<br>
+<br>
+
 
 ### 🤖Linguagem e Tecnologias
 <img
