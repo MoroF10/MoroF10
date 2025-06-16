@@ -3,6 +3,9 @@
 
 **`Analista de Dados Junior`**
 <br>
+<br>
+<br>
+
 Sou **Fernando Moro**, tenho **32 anos**, nascido em **São Paulo** e atualmente moro no **Pará**. Estou em **transição de carreira**, com o objetivo de atuar como **Analista de Dados Júnior**.
 
 Sou formado como **Cientista de Dados pela Universidade Estácio** e venho unindo minha formação acadêmica com experiências práticas. Atualmente, atuo como **correspondente bancário** e participo de um programa **trainee em uma franquia da Cacau Show**, onde aplico conceitos de dados no dia a dia.
