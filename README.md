@@ -1,47 +1,73 @@
 
-### Olá!!! Eu sou o Fernando Moro 👋
+# Olá!!! Eu sou o Fernando Moro 👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167)
+**`Analista de Dados Junior`**
+<br>
+Sou **Fernando Moro**, tenho **32 anos**, nascido em **São Paulo** e atualmente moro no **Pará**. Estou em **transição de carreira**, com o objetivo de atuar como **Analista de Dados Júnior**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoroF&hide_progress=true)
+Sou formado como **Cientista de Dados pela Universidade Estácio** e venho unindo minha formação acadêmica com experiências práticas. Atualmente, atuo como **correspondente bancário** e participo de um programa **trainee em uma franquia da Cacau Show**, onde aplico conceitos de dados no dia a dia.
 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167)
 
+### 🤖Linguagem e Tecnologias
+<img
+	align = "left"
+	alt = "Python"
+	title = "Python"
+	width = "45px"
+	style = "padding-right: 10px" 
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+	
+   <img
+   align = "left"
+	alt = "Jupyter"
+	title = "Jupyter"
+	width = "45px"
+	style = "padding-right: 10px" 
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+	
+  <img
+   align = "left"
+	alt = "Pandas"
+	title = "Pandas"
+	width = "45px"
+	style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+	
+ <img
+ align = "left"
+	alt = "Numpy"
+	title = "Numpy"
+	width = "45px"
+	style = "padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+	 
+<img
+align = "left"
+	alt = "Python"
+	title = "Python"
+	width = "45px" 
+	style = "padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
 
-Estou em transição de carreira e atualmente focado em me tornar um Analista de Dados Júnior. Tenho me dedicado ao aprendizado de ferramentas e práticas essenciais da área, como Power BI, SQL, ETL, e DAX, e também tenho uma base sólida em Python e machine learning.
+<img
+align = "left"
+	alt = "Scikitlearn"
+	title = "Scikitlearn"
+	width = "45px"
+	style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+	
+<img
+align = "left"
+	alt = "Postgresql"
+	title = "Postgresql"
+	width = "45px"
+	style = "padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+	<br>
 
-💼 Atualmente:
+### 🚀 Projetos em Destaque
+-   `30 Dias de BI`: Série de projetos no Power BI aplicando todas as etapas — extração, modelagem, criação de medidas DAX e visualizações interativas  
+    _(em desenvolvimento — repositórios serão atualizados ao longo da minha jornada)_
 
-Participo de um programa trainee de dados em uma franquia da Cacau Show
+### 🤝 Conecte-se Comigo
 
-Trabalho como correspondente bancário, o que me dá experiência prática com dados financeiros e tomada de decisão
+Sinta-se à vontade para acompanhar meus projetos, me chamar para colaborações ou apenas trocar uma ideia sobre dados!
 
-Estou em preparação para obter minha certificação em Power BI
-
-🎯 Meus objetivos com este GitHub:
-
-Publicar projetos práticos que mostram minhas habilidades com análise de dados
-
-Aplicar conhecimentos de extração, tratamento e visualização de dados
-
-Evoluir na prática com metodologias ágeis e projetos do mundo real
-
-Compartilhar minha jornada de aprendizado com outros profissionais e recrutadores
-
-📌 Tecnologias e ferramentas que estou utilizando:
-
-Python (Pandas, Matplotlib, Scikit-learn)
-
-Power BI (certificação em andamento)
-
-SQL
-
-ETL com Power Query e Python
-
-Git e GitHub
-
-🚀 Projetos em destaque:
-
-30 Dias de BI — Uma série de projetos em Power BI onde aplico todas as etapas: extração, modelagem, DAX e visualização
-
-[Outros projetos a adicionar com o tempo]
+📫 **Contato**: fernandomoro6@gmail.com
