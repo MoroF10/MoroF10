@@ -4,7 +4,6 @@
 **`Analista de Dados Junior`**
 <br>
 <br>
-<br>
 
 Sou **Fernando Moro**, tenho **32 anos**, nascido em **São Paulo** e atualmente moro no **Pará**. Estou em **transição de carreira**, com o objetivo de atuar como **Analista de Dados Júnior**.
 
