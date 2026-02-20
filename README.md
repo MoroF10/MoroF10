@@ -1,81 +1,78 @@
 
 # Olá!!! Eu sou o Fernando Moro 👋
 
-**`Analista de Dados Junior`**
+**`Data Analyst | Power BI PL-300 | Pós em Engenharia de Dados`**
 <br>
 <br>
 
-Sou **Fernando Moro**, tenho **32 anos**, nascido em **São Paulo** e atualmente moro no **Pará**. Estou em **transição de carreira**, com o objetivo de atuar como **Analista de Dados Júnior**.
+Sou Analista de Dados com formação em Ciência de Dados e certificação PL-300 (Microsoft Power BI Data Analyst). Atualmente atuo em estágio na área de dados, desenvolvendo soluções que envolvem modelagem transacional (OLTP), transformação de dados, auditoria e construção de dashboards analíticos.
 
-Sou formado como **Cientista de Dados pela Universidade Estácio** e venho unindo minha formação acadêmica com experiências práticas. Atualmente, atuo como **correspondente bancário** e participo de um programa **trainee em uma franquia da Cacau Show**, onde aplico conceitos de dados no dia a dia.
+Tenho experiência prática com:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167)
-<br>
-<br>
+- Estruturação de banco de dados relacional (PostgreSQL)
+
+- Modelagem dimensional (fato e dimensão)
+
+- Processos de ETL com Python
+
+- Automação de ingestão e tratamento de dados
+
+- Construção de dashboards analíticos no Power BI
+
+- Auditoria e controle de integridade de dados
+
+- Atualmente curso Pós-Graduação em Engenharia de Dados, com foco em arquitetura de dados, pipelines e boas práticas de governança.
+
+## 🛠 Stack Técnica
+
+- Linguagens & Manipulação
+
+- Python (Pandas, NumPy)
+
+- SQL (PostgreSQL)
+
+- Data Engineering
+
+- Modelagem OLTP
+
+- Modelagem Dimensional
+
+- ETL com Python
+
+- Integração CSV/XML
+
+- Controle transacional
+
+- BI & Visualização
+
+- Power BI (PL-300)
+
+- DAX
+
+- Modelagem estrela
+
+- Indicadores de negócio
+
+## 📌 Projetos em Destaque
+### 🔹[*Sistema Transacional de Estoque e Vendas (OLTP)*](https://github.com/MoroF10/core-oltp-database-)
+Projeto desenvolvido no estágio atual.
+Inclui:
+
+- Modelagem normalizada
+
+- Triggers e auditoria
+
+- Controle de entradas e saídas
+
+- Versionamento de dados
+
+- Integração com camada analítica
+
+### 🔹 [Análise Exploratória – ENEM 2023](https://github.com/MoroF10/enem2023-data-analysis)
+
+- Pipeline de limpeza, transformação e análise estatística com Python.
 
 
-### 🤖Linguagem e Tecnologias
-<img
-	align = "left"
-	alt = "Python"
-	title = "Python"
-	width = "45px"
-	style = "padding-right: 10px" 
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-	
-   <img
-   align = "left"
-	alt = "Jupyter"
-	title = "Jupyter"
-	width = "45px"
-	style = "padding-right: 10px" 
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-	
-  <img
-   align = "left"
-	alt = "Pandas"
-	title = "Pandas"
-	width = "45px"
-	style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-	
- <img
- align = "left"
-	alt = "Numpy"
-	title = "Numpy"
-	width = "45px"
-	style = "padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-	 
-<img
-align = "left"
-	alt = "Python"
-	title = "Python"
-	width = "45px" 
-	style = "padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
-
-<img
-align = "left"
-	alt = "Scikitlearn"
-	title = "Scikitlearn"
-	width = "45px"
-	style = "padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-	
-<img
-align = "left"
-	alt = "Postgresql"
-	title = "Postgresql"
-	width = "45px"
-	style = "padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-
- <br>
- <br>
-
-### 🚀 Projetos em Destaque
--   `30 Dias de BI`: Série de projetos no Power BI aplicando todas as etapas — extração, modelagem, criação de medidas DAX e visualizações interativas  
-    _(em desenvolvimento — repositórios serão atualizados ao longo da minha jornada)_
-
-### 🤝 Conecte-se Comigo
-
-Sinta-se à vontade para acompanhar meus projetos, me chamar para colaborações ou apenas trocar uma ideia sobre dados!
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167) 
 
 📫 **Contato**: fernandomoro6@gmail.com
